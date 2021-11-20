@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T15:21:15.441Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.6241 SLBChan/51" version="15.7.4" etag="YPoWVkvwUKMNkVr8KNo7" type="github"><diagram id="ixnTP7PrsZ1tJvnLcnKI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-20T15:28:00.259Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.6241 SLBChan/51" etag="Chz6RXh2gW7UrkL_Rmo5" version="15.7.4" type="github">
+  <diagram id="ixnTP7PrsZ1tJvnLcnKI" name="Page-1">
+    <mxGraphModel dx="1422" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mIng1DJrsQZJDd-Cd1Et-1" value="version（版本）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIng1DJrsQZJDd-Cd1Et-2" value="区分服务（DSCP、ECN）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIng1DJrsQZJDd-Cd1Et-3" value="Total Length（总长度）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIng1DJrsQZJDd-Cd1Et-4" value="Identification（标识、分片重组）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
