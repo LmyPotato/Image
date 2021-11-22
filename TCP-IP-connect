@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T15:11:42.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="9svyCkjQ-1J1cgIclOzH" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T15:13:38.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="N9X1zXGqmf0IgKY0zmvR" version="15.8.3" type="github">
   <diagram id="QRDe3q01WNbyDhB1xTtx" name="Page-1">
     <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,18 @@
         </mxCell>
         <mxCell id="Phs39aayzMjeWfivEeP0-25" value="请求连接" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Phs39aayzMjeWfivEeP0-30" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="560" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Phs39aayzMjeWfivEeP0-31" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="680" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Phs39aayzMjeWfivEeP0-32" value="数据交换" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Phs39aayzMjeWfivEeP0-33" value="断开连接" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
