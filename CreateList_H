@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T14:27:22.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="bnLuSr_Egr_eI4wCqN1Z" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T14:28:57.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="mAVqCLYK1JDTr6NGJGV0" version="15.8.3" type="github">
   <diagram id="G9BqqkXOoQ4YUMXGnqXE" name="Page-1">
     <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,8 @@
         <mxCell id="U9pC83fFMsG3o2UIIQ6z-48" value="第二步：L-&amp;gt;next=S" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="960" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U9pC83fFMsG3o2UIIQ6z-49" value="在这个过程中S" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="114" y="1065" width="150" height="30" as="geometry" />
+        <mxCell id="U9pC83fFMsG3o2UIIQ6z-49" value="在序号1和序号2中&lt;br&gt;&lt;br&gt;序号1中插入的P=序列号2中插入的S" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="19" y="1040" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U9pC83fFMsG3o2UIIQ6z-50" value="这是序号1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="74" y="40" width="120" height="80" as="geometry" />
